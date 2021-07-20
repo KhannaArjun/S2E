@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "819286135756",
+    "project_id": "sanskrittranslatorapp-95be6",
+    "storage_bucket": "sanskrittranslatorapp-95be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819286135756:android:bd3a326bc394f0349c4369",
+        "android_client_info": {
+          "package_name": "com.example.translator2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819286135756-aa5t07b8l8tkpq55ffq00mbo2i6qqv9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.translator2",
+            "certificate_hash": "769775a4c7de8e264831d922abe186eec03e9f80"
+          }
+        },
+        {
+          "client_id": "819286135756-40hke94los76i74gnpf8iomudda55ap7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjR5UtQ7UxzQWn4lUku3B39ggfRMmtqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819286135756-40hke94los76i74gnpf8iomudda55ap7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

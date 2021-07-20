@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="facebook_app_id">676795373184616</string>
+    <string name="fb_login_protocol_scheme">fb676795373184616</string>
+
+</resources>
