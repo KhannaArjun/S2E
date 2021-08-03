@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>819286135756-ighkkn7fo00eginm41i26qf0pq6sqk7v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.819286135756-ighkkn7fo00eginm41i26qf0pq6sqk7v</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>819286135756-aa5t07b8l8tkpq55ffq00mbo2i6qqv9t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBc4qQlvuQTV9w4T4n8VA_r2A6Zp3rlYn8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>819286135756</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.translator2</string>
+	<key>PROJECT_ID</key>
+	<string>sanskrittranslatorapp-95be6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sanskrittranslatorapp-95be6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:819286135756:ios:765d825dbea060199c4369</string>
+</dict>
+</plist>
