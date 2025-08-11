@@ -1,3 +1,3 @@
 # translator2
 
-Sanskrit Transaltor App.
+Sanskrit Transaltor App
